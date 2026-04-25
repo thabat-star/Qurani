@@ -15,8 +15,8 @@
 ## التحميل
 
 <p align="center">
-  <a href="PUT_YOUR_DOWNLOAD_LINK_HERE">
-    <img src="https://raw.githubusercontent.com/thabat-star/Qurani/main/release.apk"/>
+  <a href="https://raw.githubusercontent.com/thabat-star/Qurani/main/release.apk">
+    <img src="https://img.shields.io/badge/Download-App-green?style=for-the-badge&logo=android"/>
   </a>
 </p>
 
