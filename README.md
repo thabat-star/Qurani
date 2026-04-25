@@ -3,7 +3,7 @@
 ---
 
 ## عن التطبيق
-**قرآني** هو تطبيق استماع إسلامي مستوحى من فكرة :contentReference[oaicite:0]{index=0} لكن بمحتوى نقي يقرّبك من الله بدل ما يبعدك.
+**قرآني** هو تطبيق استماع إسلامي مستوحى من فكرة تطبيق اسبوتفاي لكن بمحتوى نقي يقرّبك من الله. 
 
 - 🎧 استماع للقرآن بأصوات قراء مختلفين
 - 📚 مكتبة إسلامية (أناشيد / تلاوات / محتوى نافع)
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="PUT_YOUR_DOWNLOAD_LINK_HERE">
-    <img src="https://img.shields.io/badge/Download-App-green?style=for-the-badge&logo=android"/>
+    <img src="https://raw.githubusercontent.com/thabat-star/Qurani/main/release.apk"/>
   </a>
 </p>
 
