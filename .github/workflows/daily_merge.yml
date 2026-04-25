@@ -1,0 +1,33 @@
+name: Daily JSON Merger
+on:
+  schedule:
+    - cron: '0 0 * * *' # كل يوم الساعة 12 بالليل
+  workflow_dispatch: # للتشغيل اليدوي
+
+jobs:
+  merge-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run Merge Script
+        run: python3 merge_script.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add data.json
+          # مسح الملفات المؤقتة بعد الدمج
+          rm -rf pending_updates/*.json
+          git add pending_updates/
+          
+          if git diff --staged --quiet; then
+            echo "لا يوجد بيانات للدمج"
+          else
+            git commit -m "الدمج اليومي للصوتيات وتحديث data.json"
+            git push
+          fi
