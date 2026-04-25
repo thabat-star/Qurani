@@ -1,0 +1,43 @@
+name: Save Temporary Audio Data
+on:
+  repository_dispatch:
+    types: [add_audio_event]
+
+jobs:
+  save-temp-json:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4 # حدثنا النسخة لـ v4 أسرع
+
+      - name: Create Temp File
+        run: |
+          mkdir -p pending_updates
+          # بنعمل ملف باسم فريد باستخدام الـ Audio ID عشان ميتكررش
+          cat <<EOF > pending_updates/${{ github.event.client_payload.audio_id }}.json
+          {
+            "playlist_id": "${{ github.event.client_payload.playlist_id }}",
+            "playlist_name": "${{ github.event.client_payload.playlist_name }}",
+            "category": "${{ github.event.client_payload.category }}",
+            "audio_id": "${{ github.event.client_payload.audio_id }}",
+            "audio_title": "${{ github.event.client_payload.audio_title }}",
+            "file_id": "${{ github.event.client_payload.file_id }}",
+            "final_url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=${{ github.event.client_payload.file_id }}"
+          }
+          EOF
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add pending_updates/
+          
+          # محاولة الكوميت فقط لو فيه تغييرات فعلاً
+          git diff --quiet && git diff --staged --quiet || git commit -m "حفظ مؤقت: ${{ github.event.client_payload.audio_title }}"
+          
+          # حلقة تكرار (Loop) للمحاولة 5 مرات في حال حدوث Conflict
+          for i in {1..5}; do
+            git pull --rebase origin main && git push && break || sleep 5
+          done
