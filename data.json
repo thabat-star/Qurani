@@ -6761,6 +6761,236 @@
           "is_live": false
         }
       ]
+    },
+    {
+      "playlist_id": "pl_g683xi",
+      "playlist_name": "احمد العجمي",
+      "playlist_image": "https://raw.githubusercontent.com/x0r-1/qurani_app/main/images/default.jpg",
+      "category": "قرآن",
+      "audios": [
+        {
+          "id": "aud_monv3644",
+          "title": "سوره غافر",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE2Gn1giHL67pVPwdZl3huebHgcGi8AAIjBwACbAysCix0v5OCnjBAOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv30ji",
+          "title": "سوره يونس",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEuWn1giFNmEGicvO2sqiiLHlR3OhwAAJNBwACbAysCqX8yaG2AAGnGDsE",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv311d",
+          "title": "سوره الرعد",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEvGn1giF-oJFIP4tn3GWjEqxEHfwcAAKPBwACbAysClxeBdpj6hImOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv31iz",
+          "title": "سوره النحل",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEv2n1giGJZvDzowxh-5lgtCurghm6AAItBwACbAysCnjonPiTdAT_OwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv35ee",
+          "title": "سوره فصلت",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE1mn1giHhQH7VjUIx3YCQ3Vk-zkxyAAJnBwACbAysCoKIfjkhw0KAOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv2zq9",
+          "title": "سوره المائده",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEtGn1giFGvsftll7mCYpksZUh6iyrAAKABwACbAysCo3wtJHIhmboOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv33yf",
+          "title": "سوره الروم",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEzWn1giFAUIJPjNHqU65VqY2H6urnAAJjBwACbAysCnIHARPlZzDPOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv33mr",
+          "title": "سوره العنكبوت",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEy2n1giHL0zJ5I17ntr57PDjtF8DdAAIsBwACbAysCgXP9-iSrIvbOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv34fu",
+          "title": "سوره الاحزاب",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE0Gn1giEu3RweTXL_kDZtGWY4mA_VAAJJBwACbAysCpxunpPPpDKgOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv31oy",
+          "title": "سوره الاسراء",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEwGn1giHLBAAB9XbzxZ4bD9iZNEOD8AACdQcAAmwMrArAW8bjW833lDsE",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv316r",
+          "title": "سوره ابراهيم",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEvWn1giGzGneEoAdJfY1xnefU_uogAAJdBwACbAysCnQbePzBrlHCOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv34x7",
+          "title": "سوره فاطر",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE02n1giHfUzzgsUvf8zLjM1MKp-ARAAKOBwACbAysCkiKEkEJsomsOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv2z9x",
+          "title": "سوره ال عمران",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEsmn1giE8GYU0Ab-Mq0SX4clBdT09AAJ3BwACbAysClLOHrVCH_PlOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv31v8",
+          "title": "سوره الكهف",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEwWn1giFRTWYHFFoBeoAayZNupjeNAAIvBwACbAysCmDpCLBF20jDOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv32mk",
+          "title": "سوره الحج",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIExWn1giFUJ90Bd6HQHu7cNk1mPmoRAAJLBwACbAysCkuJm-2Sz4NIOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv32yw",
+          "title": "سوره النور",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEx2n1giEBbxuOD0D28PTgbdg249whAAJxBwACbAysCjvimVEaO474OwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv33b0",
+          "title": "سوره الشعراء",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEyWn1giERsw4GldxIMZJb8MO0zAGWAAJaBwACbAysCqeu17URDsepOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv327u",
+          "title": "سوره طه",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEw2n1giHjAalV0uD9lfFgiTYAAbIRgAACPwcAAmwMrAr30l1PzWXyCDsE",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv33go",
+          "title": "سوره النمل",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEymn1giG4PdWv_iHoRa_7588kqV1bAAJ6BwACbAysCjJiMD-DB9kZOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv2zwe",
+          "title": "سوره الانعام",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEtWn1giEEB1rzP2GQ6M7QnCvlEaDtAAInBwACbAysCtgTNviDcjjUOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv34ad",
+          "title": "سوره السجده",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEz2n1giExNY1USCsG4eiZ8OFgB0BxAAJQBwACbAysChNCBwWVRRqoOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv32sh",
+          "title": "سوره المؤمنون",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIExmn1giFqhWGyhlkw7bEoqXDcQxPNAAJIBwACbAysCjsuxQ7ybgswOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv369g",
+          "title": "سوره الشوري",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE2Wn1giEVihgzh-7h4kS6f9b2KbP-AAI2BwACbAysCiGvMFplIIiHOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv34rk",
+          "title": "سوره سبا",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE0mn1giG3BqkLmeBix8oItJ7C46I6AAJtBwACbAysCsIRlP0HGi8COwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv3442",
+          "title": "سوره لقمان",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEzmn1giHW-z2kEJ5joQaTNJwMOX66AAJbBwACbAysCkHuI8Ex91lQOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv36ew",
+          "title": "سوره الاحقاق",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE2mn1giEmb6rQe6Iytx7jxBah6mmCAAJBBwACbAysCtLeD-3wzNcJOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv30vg",
+          "title": "سوره يوسف",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEu2n1giHUvqlryu0F1W_LxClHnV00AAJgBwACbAysCiUPVzV96s5EOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv33sj",
+          "title": "سوره القصص",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEzGn1giEsOnBbSoHPwu8PrwOPNIVGAAKJBwACbAysCl3WsqfX9R4qOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv35k1",
+          "title": "سوره الزمر",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE12n1giFo-FyHwMzlEo8o3ypFVziUAAKCBwACbAysCrADEa0uVLpxOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv3536",
+          "title": "سوره ص",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE1Gn1giFJY7oAAfPCYzOgjGB8QNRPpAACXgcAAmwMrAo1IgABWLMxO1s7BA",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv307t",
+          "title": "سوره الانفال",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEt2n1giE-ktRY8uJPAd4pawMScUzwAAI4BwACbAysCtHtMM9AkQGwOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv34l8",
+          "title": "سوره يس",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE0Wn1giG1N7yrOtD5ZaG2IshtXmm0AAJXBwACbAysChy9oPEU1fQqOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv30p5",
+          "title": "سوره هود",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEumn1giGYikwkrvjY-UuboSu0YRfiAAKZBwACbAysCvRYtW14z4uOOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv36ki",
+          "title": "سوره الزخرف",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE22n1giFmQpyTFyYDIj9B5cqb6lPRAAI3BwACbAysCmy3RCrNhASYOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv32de",
+          "title": "سوره الانبياء",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIExGn1giEMaFS105FyCaTsA7a5zrANAAKKBwACbAysCoaFqaVjqnchOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv358t",
+          "title": "سوره الصافات",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIE1Wn1giFZ8w_y0uxYMRY0XbtCn_j-AAJVBwACbAysCjIyQugD71TZOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_monv320k",
+          "title": "سوره مريم",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIEwmn1giENzoqsd7QqbKbs1L2qbTWXAAJRBwACbAysCh3lAAGCZ5vq3TsE",
+          "is_live": false
+        }
+      ]
     }
   ]
 }
