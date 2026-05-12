@@ -6920,29 +6920,21 @@
       ]
     },
     {
-      "playlist_id": "pl_4zdm84",
-      "playlist_name": "ابو بكرا الشاطري",
-      "playlist_image": "https://raw.githubusercontent.com/x0r-1/qurani_app/main/images/default.jpg",
-      "category": "قرآن",
-      "audios": [
-        {
-          "id": "aud_movug3xg",
-          "title": "سوره البقره",
-          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIFH2n834neaKB5ZYVnlZ_htrSiZdgjAALIFwACbAysCladG_PjEiVAOwQ",
-          "is_live": false
-        }
-      ]
-    },
-    {
       "playlist_id": "pl_fy6c69",
       "playlist_name": "ابو بكر الشاطري",
-      "playlist_image": "https://raw.githubusercontent.com/x0r-1/qurani_app/main/images/default.jpg",
+      "playlist_image": "https://raw.githubusercontent.com/x0r-1/qurani_app/main/images/Abu_Bakr_al-Shatiri.jpg",
       "category": "قرآن",
       "audios": [
         {
           "id": "aud_mp0mgeom",
           "title": "سوره الفجر",
           "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIFJGoBSBRJBJ_Zcyokids3Cokgih08AAINGAACbAysCrLEW-H037uAOwQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_movug3xg",
+          "title": "سوره البقره",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIFH2n834neaKB5ZYVnlZ_htrSiZdgjAALIFwACbAysCladG_PjEiVAOwQ",
           "is_live": false
         },
         {
