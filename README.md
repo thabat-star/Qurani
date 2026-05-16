@@ -36,3 +36,13 @@
 ---
 
 > "ألا بذكر الله تطمئن القلوب"
+
+
+<br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9ec3fed0-45ff-4cb3-988c-f8cd66e85082">
+</p>
+
+
+<br>
