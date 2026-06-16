@@ -7484,6 +7484,20 @@
           "is_live": false
         }
       ]
+    },
+    {
+      "playlist_id": "pl_atqm0c",
+      "playlist_name": "هزاع البلوشي",
+      "playlist_image": "https://raw.githubusercontent.com/x0r-1/qurani_app/main/images/default.jpg",
+      "category": "قرآن",
+      "audios": [
+        {
+          "id": "aud_mqfo2xg0",
+          "title": "سوره الحجر",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIFkWowYL7n1be0Iui9uPyr9ZHY4xGDAAJVHAACgCuAUbSd9mhZ3Oe5PAQ",
+          "is_live": false
+        }
+      ]
     }
   ]
 }
