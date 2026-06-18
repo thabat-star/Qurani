@@ -4573,7 +4573,14 @@
       "playlist_name": "فارس عباد",
       "playlist_image": "https://raw.githubusercontent.com/thabat-star/Qurani/main/images/Faris_Abbad.jpg",
       "category": "قرآن",
-      "audios": []
+      "audios": [
+        {
+          "id": "aud_mqiwskob",
+          "title": "نونيه القحطاني",
+          "url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIFkmozXn4fC8i6ejkHmGJkApu85kEYAALuHgACY2vJUW0mg3vh6doBPAQ",
+          "is_live": false
+        }
+      ]
     },
     {
       "playlist_id": "pl_nhqtk",
