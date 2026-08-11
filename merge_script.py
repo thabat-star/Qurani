@@ -20,12 +20,11 @@ def merge():
             with open(file_path, 'r', encoding='utf-8') as f:
                 new_item = json.load(f)
             
-            # التعديل هنا: أضفنا is_live أوتوماتيكياً لأي سورة تدمج
             new_audio = {
                 "id": new_item['audio_id'],
                 "title": new_item['audio_title'],
                 "url": new_item['final_url'],
-                "is_live": False  # السورة المرفوعة دايماً مش لايف
+                "is_live": False 
             }
 
             found_playlist = None
@@ -43,7 +42,7 @@ def merge():
                 new_playlist = {
                     "playlist_id": new_item['playlist_id'],
                     "playlist_name": new_item['playlist_name'],
-                    "playlist_image": "https://raw.githubusercontent.com/x0r-1/qurani_app/main/images/default.jpg",
+                    "playlist_image": "https://raw.githubusercontent.com/thabat-star/Qurani/main/images/default.jpg",
                     "category": new_item['category'],
                     "audios": [new_audio]
                 }
