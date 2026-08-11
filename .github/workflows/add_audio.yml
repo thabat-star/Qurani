@@ -10,8 +10,8 @@ jobs:
       contents: write
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4 # حدثنا النسخة لـ v4 أسرع
-
+        uses: actions/checkout@v4
+        
       - name: Create Temp File
         run: |
           mkdir -p pending_updates
@@ -24,7 +24,7 @@ jobs:
             "audio_id": "${{ github.event.client_payload.audio_id }}",
             "audio_title": "${{ github.event.client_payload.audio_title }}",
             "file_id": "${{ github.event.client_payload.file_id }}",
-            "final_url": "https://qurani.x0r-x0r-77782.workers.dev/play?file_id=${{ github.event.client_payload.file_id }}"
+            "final_url": "https://qurani.platform-thabat.workers.dev/play?file_id=${{ github.event.client_payload.file_id }}"
           }
           EOF
 
