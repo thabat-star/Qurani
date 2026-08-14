@@ -263,6 +263,36 @@
           "title": "خواتيم سوره يونس",
           "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIC2mm5EPXnCMcrLBOdaMjKDsyooyEtAALNHgACY2vJUbKEDqQ5XiXoOgQ",
           "is_live": false
+        },
+        {
+          "id": "aud_mssukkxb",
+          "title": "سوره هود",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHZGp-9_xlDSFdiiJpkWWyPuxWnUSvAAIjHgACTcz5U9vt-vSqpixwPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mssujezq",
+          "title": "سوره الاسراء",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHYmp-98Z_kBO0Dl5MSZLC0MwRYKAaAAIhHgACTcz5U_tKIrEzqKbbPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mssujf7b",
+          "title": "سوره الفرقان",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHY2p-98ZrKscMxByFfXpf_PbZ7FQVAAIiHgACTcz5UyxQaVYZyS91PQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mssukl4d",
+          "title": "ما تيسر من ال عمران",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHZWp-9_xLdJ1PxGaz7-_N0OAZa3i2AAIkHgACTcz5U2bzxkcv7cuaPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mssuca8c",
+          "title": "خواتيم الانبياء",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHYWp-9nlvQJrBgZwM77czpy-CkNjiAAIZHgACTcz5U3KKHtrnSxXFPQQ",
+          "is_live": false
         }
       ]
     },
@@ -8308,6 +8338,48 @@
           "id": "aud_msns1tkz",
           "title": "سوره الطلاق",
           "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIGxWp6SnXcPVugW06qrkf85HPDzImaAAIrHgACbAysCr057OTPk5MMPQQ",
+          "is_live": false
+        }
+      ]
+    },
+    {
+      "playlist_id": "pl_nird1t",
+      "playlist_name": "اسامه النهاري",
+      "playlist_image": "https://raw.githubusercontent.com/thabat-star/Qurani/main/images/default.jpg",
+      "category": "شعر",
+      "audios": [
+        {
+          "id": "aud_mst1n4uk",
+          "title": "نعد المشرفيه والعوالي",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHZmp_JmGPhL7wyC3nZPy8lAgkIyIwAAL9HQACTcwBUPw0ox3kKaeJPQQ",
+          "is_live": false
+        }
+      ]
+    },
+    {
+      "playlist_id": "pl_o8501v",
+      "playlist_name": "همام ادم",
+      "playlist_image": "https://raw.githubusercontent.com/thabat-star/Qurani/main/images/default.jpg",
+      "category": "شعر",
+      "audios": [
+        {
+          "id": "aud_mst1n51r",
+          "title": "منظومه التكاسي",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHZ2p_JmEhE8Ix-nyKPhE80YgvHPNVAAL-HQACTcwBUCVPjO9BoyRQPQQ",
+          "is_live": false
+        }
+      ]
+    },
+    {
+      "playlist_id": "pl_tbx0k",
+      "playlist_name": "اسامه",
+      "playlist_image": "https://raw.githubusercontent.com/thabat-star/Qurani/main/images/default.jpg",
+      "category": "قرآن",
+      "audios": [
+        {
+          "id": "aud_mst1n596",
+          "title": "حداء الا من لعين وتسكابها",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHaGp_JmECeH8ZQ8_L6ixdH6RyRt-rAAL_HQACTcwBUMI0mX9JfwY7PQQ",
           "is_live": false
         }
       ]
