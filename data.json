@@ -8383,6 +8383,38 @@
           "is_live": false
         }
       ]
+    },
+    {
+      "playlist_id": "pl_o6hzm",
+      "playlist_name": "ابن العربي",
+      "playlist_image": "https://raw.githubusercontent.com/thabat-star/Qurani/main/images/default.jpg",
+      "category": "قرآن",
+      "audios": [
+        {
+          "id": "aud_mt1dhny8",
+          "title": "قم فإن الله لا يرضي بأن تحيا ذليلا",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHbGqG1a4a0KTx8Fj3j7aTuK-desWUAALeMgACnmQ4UN5hSBDgZEAlPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mt1dhnrb",
+          "title": "ابت عباراته الا انسكابا",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHa2qG1a4hXRf_KwABEinI6A51zR6iOgAC3TIAAp5kOFDo_8_Ep9rtaD0E",
+          "is_live": false
+        },
+        {
+          "id": "aud_mt1dhnbw",
+          "title": "كيف صبري وقد قتلتم كليبا",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHaWqG1a6YwPZzaH1T4RM85txzqOE1AALbMgACnmQ4UGzq2MsvjX2gPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mt1dhnja",
+          "title": "حصاني كان دلال المنيا",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHamqG1a4ZiHv3tcWl2GemazOIeMaMAALcMgACnmQ4UIE19OnOBIsfPQQ",
+          "is_live": false
+        }
+      ]
     }
   ]
 }
