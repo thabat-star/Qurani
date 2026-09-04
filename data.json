@@ -2637,6 +2637,30 @@
           "title": "الارجوزه المحبره في التاريخ",
           "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHbmqK2ElgWXgmvkETY09aV6OefYV8AAI-HAAC9kbIUeR7sM0E2LUpPQQ",
           "is_live": false
+        },
+        {
+          "id": "aud_mtlt3st5",
+          "title": "من اعظم قصائد الرثاء",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHh2qZsA0tOvY_ledrEeJnlaNIYMlCAAJRIQACPK3RUPUgFB_XnkIlPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlt3skd",
+          "title": "الا ليت شعري هل تغير",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHhmqZsA1js2WZzwbK9SERXQ9el0BxAAJQIQACPK3RUGW7QNpNXCSFPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlt3t0f",
+          "title": "هجاء الاخطل",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHiGqZsA1E_8MF6W3BeXDC-xYc7FnLAAJSIQACPK3RUBLvW175pCYuPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlt3t7h",
+          "title": "هل من طبيب لداء الحب",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHiWqZsA2CfcgFCnEuoPRPXeQ9fuQ2AAJTIQACPK3RUKgz8lxbfPe7PQQ",
+          "is_live": false
         }
       ]
     },
@@ -8424,6 +8448,140 @@
           "id": "aud_mt1imqe5",
           "title": "اجارتنا انا غريبان هاهنا",
           "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHbWqG92mIdaz5k6IWPLZLl15D0D2jAAISHwACD8Y4ULrnBdO6Z9V1PQQ",
+          "is_live": false
+        }
+      ]
+    },
+    {
+      "playlist_id": "pl_0mrrnh",
+      "playlist_name": "خالد الشرفي",
+      "playlist_image": "https://raw.githubusercontent.com/thabat-star/Qurani/main/images/default.jpg",
+      "category": "قرآن",
+      "audios": [
+        {
+          "id": "aud_mtlgynaa",
+          "title": "ارجوزه داء السكري",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHhGqZYGGSnEF6n4E0p9EEOrK_5a9cAAKVIAACPK3RUFGzzoV0BQABGj0E",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlgx13d",
+          "title": "اعظم سيره",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHgGqZYBT3P0ibDUNQwBQgzcZycKXVAAKcIAACPK3RUCTROOHTZZ-UPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlgwzxn",
+          "title": "منظومه البيان فى تحزيب القران",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHe2qZYBTEQz74eKVYjpIicpTYB6KzAAKXIAACPK3RUFjXVmnfgHIoPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtldzymt",
+          "title": "لم تلم قلبا",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHb2qZTO_lOC_7mAqZJ_N83n6ONSKrAAKIIAACPK3RUDws5oHxbBRCPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlgx08j",
+          "title": "لصقور ارض زوره العلياء",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHfGqZYBT9R9NeYdSH3X1HF1qb6xhHAAKYIAACPK3RUNHHJZ-upfyLPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtle00s3",
+          "title": "اشبت فني وقبل ضحي المشيب",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHemqZTO9xkhUeZ68r1hFr2CwVvAhoAAKTIAACPK3RUBQ5VFjoAjWvPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtldzzfo",
+          "title": "اذا المرء لا يرعاك الا تكلفا",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHc2qZTO_rirduvQlp3ORaJXzWgzWoAAKMIAACPK3RUN4nYbrSO01lPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtldzzm0",
+          "title": "ده الايام تفعل ما تشاء",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHdGqZTO-2dkYWq2DyDcfM7pS8fqpWAAKNIAACPK3RUCyt_I8lEkNqPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlgx1b9",
+          "title": "لغزه مدمي دمعه",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHgWqZYBT872TB2SrUp6HQ-7y_VBcsAAKdIAACPK3RUG6ZOuZ2ae7XPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlgx0ny",
+          "title": "منظومه اسماء خيل النبي",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHfmqZYBTWVoeIbtSzULkm8Vcgmg--AAKaIAACPK3RUJiA6ofXtqjNPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlgx1jq",
+          "title": "سنام العمر",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHgmqZYBS1fkXfhc5VFDF3vNmg6lbYAAKeIAACPK3RUGbeX4flwZaePQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlgyni5",
+          "title": "الاربعين فى حقوق رب العالمين",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHhWqZYGH-cUUNOw3pE-FxzJ9gRD7fAAKWIAACPK3RUErE8FNqplzGPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlgx0fh",
+          "title": "ايؤسر القلب",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHfWqZYBRcGaGr3_1O3fATfaxoGVI5AAKZIAACPK3RUGW9Q2t4dqm-PQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtldzz2t",
+          "title": "لا يحمل  الحقد من تعلو به الرتب",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHcWqZTO_LoinrqEeK8ZavtbcQkV97AAKKIAACPK3RUOIVPKABDophPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtle00dk",
+          "title": "يا سلامي طاب لي منها سلاما",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHeGqZTO_YUReZQ2zL-ErqeuppS7IdAAKRIAACPK3RUMi1C1qUJr9TPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtle0009",
+          "title": "القصيده العلويه",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHdmqZTO9A_jUY0WBbjSmZk554cFwrAAKPIAACPK3RUBvGg3xX1bC4PQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtle00lv",
+          "title": "استنكرت دارا ام تناكرت ديارا",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHeWqZTO_jS2NkIZoYj5DXeS6Ec4s_AAKSIAACPK3RUJnzcMGs-iHhPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlgx0v1",
+          "title": "يا طارقا خاففي",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHf2qZYBQLjDj1GNmMUwx1SEmurCFTAAKbIAACPK3RUP5nTr-IYKjSPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtldzyv5",
+          "title": "الا يا زهور الدار",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHcGqZTO80X231DFOYWQkTb5_HopBlAAKJIAACPK3RUPdQFn5Q8VcSPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtlgymzn",
+          "title": "لي فى الطفيله",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHg2qZYGGvj6C3jLmg2WTP3WDGCUWAAAKUIAACPK3RULmaMEJa11DfPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtle007o",
+          "title": "هي الدنيا تصوغ لك المقالا",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIHd2qZTO8QGPBqOWr9SKqQuHRMaxK2AAKQIAACPK3RUFTeCOHpc3skPQQ",
           "is_live": false
         }
       ]
