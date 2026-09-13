@@ -8837,6 +8837,104 @@
           "is_live": false
         }
       ]
+    },
+    {
+      "playlist_id": "pl_wl2tzm",
+      "playlist_name": "عبد الرحمن العوسي",
+      "playlist_image": "https://raw.githubusercontent.com/thabat-star/Qurani/main/images/default.jpg",
+      "category": "قرآن",
+      "audios": [
+        {
+          "id": "aud_mtywgw8n",
+          "title": "سوره يونس",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHvWqlxKqbFRPb9auQwbuvRtgGwLYbAAMWAAJsDKwKDV35kMS7d1w9BA",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywgvo9",
+          "title": "سوره الاعراف",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHumqlxKoPAajpi0quVsZGQVAZadPVAAL1FQACbAysCv0vWXgmwG5EPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywgwln",
+          "title": "سوره يوسف",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHv2qlxKq8lhw-ZLQ5SNY-j9rCZcclAAL_FQACbAysCmSKm9Mf_d8xPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywjb5i",
+          "title": "سوره الناس",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHxGqlxRsQjOFQ8-0uZAswsuw4VT1yAAJaFgACbAysCqDxmoLbxeGrPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywi8nl",
+          "title": "سوره البقره",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHwWqlxOqQgwoFplyoGNIPmksbyW3dAALtFQACbAysCskRMxMbn8DjPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywgwt0",
+          "title": "سوره الرعد",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHwGqlxKpSyg7Gwf2TW9HLL7Ljbn-BAAL2FQACbAysCi_nfn7eND6SPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywgvvm",
+          "title": "سوره الانفال",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHu2qlxKpwn0_mflaz2fMQOAl3iCIiAAL6FQACbAysCk7o3oYU3LA7PQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywgwf1",
+          "title": "سوره هود",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHvmqlxKpbEKq8a8IQLuQkWA_zIynKAALzFQACbAysCszrMwABT-g3wz0E",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywjapv",
+          "title": "سوره الاخلاص",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHwmqlxRvgdvdGZ8KCZr22mdBqxTYkAAJFFgACbAysCshqhSKXZYzWPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywjbuo",
+          "title": "سوره المائده",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHyGqlxRvNMKPII2dDCO5-sPnLcNA5AALyFQACbAysClMMlwKtud_8PQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywjbov",
+          "title": "سوره النساء",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHx2qlxRtL2YuR1eEDYS2AsMgQ3Fw-AAL8FQACbAysCrsRQfnPwR24PQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywjbiy",
+          "title": "سوره ال عمران",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHxmqlxRuIQSCf-jcIwHRnvxKUnot8AAL-FQACbAysCocenkFbQLqzPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywjc0k",
+          "title": "سوره الانعام",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHyWqlxRuj6YUPjynWQH806cv0aHNUAAL4FQACbAysCu6CRVgVp4LMPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywjazp",
+          "title": "سوره الفلق",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHw2qlxRu-lc3Iyl9yuU5Qfwfsq2zPAAJWFgACbAysClIDuYwv1Jt6PQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mtywjbcu",
+          "title": "سوره الفاتحه",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHxWqlxRuSjtQsu3W8g5zU4LotNjWYAALvFQACbAysCkwBOQ0YSBoDPQQ",
+          "is_live": false
+        }
+      ]
     }
   ]
 }
