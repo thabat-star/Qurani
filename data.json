@@ -8933,6 +8933,78 @@
           "title": "سوره الفاتحه",
           "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHxWqlxRuSjtQsu3W8g5zU4LotNjWYAALvFQACbAysCkwBOQ0YSBoDPQQ",
           "is_live": false
+        },
+        {
+          "id": "aud_mu08tos3",
+          "title": "سوره العلق",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHymqnAe3KyT6SabEahkRIVaEVSjVkAAJMFgACbAysCmbVt9no8b4ePQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mu08tqnw",
+          "title": "سوره قريش",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIH02qnAe25D6a_V1yEXSKALaU0azSQAAJQFgACbAysCkPouzoJMtRBPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mu08tpvv",
+          "title": "سوره التكاثر",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHz2qnAe2ju_fTRMIOVeHlP_7PXHqwAAJJFgACbAysCiJBqjo52uUtPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mu08tr08",
+          "title": "سوره الكوثر",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIH1WqnAe2l70isX1CCrmYZmTtZ4SpqAAJBFgACbAysCjVVs5JJrP1WPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mu08trlr",
+          "title": "سوره النصر",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIH12qnAe3P3NUQEJqEzZ5v0YLweT2OAAJVFgACbAysCrL--BqBM5RzPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mu08tr7b",
+          "title": "سوره الكافرون",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIH1mqnAe234YYwH_GVNMdiZ_y3gEZrAAJdFgACbAysCiKig3_d_pnMPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mu08tqbk",
+          "title": "سوره الهمزه",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIH0WqnAe0eZkS8m83lHFJvnZe9fCFJAAJSFgACbAysCvIsIFM-ve7bPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mu08tpfz",
+          "title": "سوره العاديات",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHzWqnAe0YF2cl-MA1TOEcSAweQTkGAAJUFgACbAysCr0BiiTSOq_-PQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mu08tqhc",
+          "title": "سوره الفيل",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIH0mqnAe2zfKsPVpcRJ28zHmD_P34PAAJKFgACbAysCjMXAylEXopVPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mu08tp8m",
+          "title": "سوره الزلزله",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHzGqnAe2g_tE1OTRGA98tl5WugOYKAAJEFgACbAysCnyJj7bJVHpBPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mu08tq1z",
+          "title": "سوره العصر",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIH0GqnAe1DwFCwkN_nwkLMyATIf9umAAJDFgACbAysCqZHadqg4clzPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_mu08tppi",
+          "title": "سوره القارعه",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIHzmqnAe1FjOv9Qn5NMagQcstist9OAAJZFgACbAysCgfijmu0Eu03PQQ",
+          "is_live": false
         }
       ]
     }
