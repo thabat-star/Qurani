@@ -9951,6 +9951,68 @@
           "is_live": false
         }
       ]
+    },
+    {
+      "playlist_id": "pl_fspj9b",
+      "playlist_name": "سعود الشريم",
+      "playlist_image": "https://raw.githubusercontent.com/thabat-star/Qurani/main/images/default.jpg",
+      "category": "قرآن",
+      "audios": [
+        {
+          "id": "aud_muk6lu3c",
+          "title": "سوره النور",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIIoGq5Z0r5M1Mc9IIc4tEWw8IC3UHxAAIwGQACbAysCjzoAAFLMXF0zz0E",
+          "is_live": false
+        },
+        {
+          "id": "aud_muk6ltw8",
+          "title": "سوره المؤمنون",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIIn2q5Z0p8PIcox4OdOcHyUulheWb7AAIlGQACbAysCrqUpItWK9qFPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_muk6luec",
+          "title": "سوره النمل",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIIomq5Z0oINZK4w2O6z9uPx4DqgKu-AALRGAACbAysCvBYpdBPkIcyPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_muk6ltgs",
+          "title": "سوره الانبياء",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIInWq5Z0qKLIz5kddt8JH9QE38bP6yAALxGAACbAysCuixbAs6FhTePQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_muk6ltoi",
+          "title": "سوره الحج",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIInmq5Z0pnZG8k_vwdb_aFrv6aCdGFAALzGAACbAysCgZgwtNOuM_BPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_muk6lux5",
+          "title": "سوره الشعراء",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIIpGq5Z0q7QEmJbMRyBDb-MJnF1b7_AALrGAACbAysCnqpgSKAdrjQPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_muk6lv97",
+          "title": "سوره الروم",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIIpmq5Z0r4RqH63wiAxBxLvNVDFb4JAAINGQACbAysCrudtHkQxHWBPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_muk6lv25",
+          "title": "سوره القصص",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIIpWq5Z0orvjf_SzZ0IECVo3_HDqL4AAIrGQACbAysCrchZJUoaocOPQQ",
+          "is_live": false
+        },
+        {
+          "id": "aud_muk6lurb",
+          "title": "سوره العنكبوت",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgIAAyEFAATmuU3iAAIIo2q5Z0oanuQduKxc6cPfLosO_MnVAAIOGQACbAysCukerCM5CveqPQQ",
+          "is_live": false
+        }
+      ]
     }
   ]
 }
