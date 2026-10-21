@@ -10013,6 +10013,20 @@
           "is_live": false
         }
       ]
+    },
+    {
+      "playlist_id": "pl_irhes",
+      "playlist_name": "عبدلله العنزي",
+      "playlist_image": "https://raw.githubusercontent.com/thabat-star/Qurani/main/images/default.jpg",
+      "category": "قرآن",
+      "audios": [
+        {
+          "id": "aud_mvgstwrf",
+          "title": "معلقه عمرو بن كلثوم",
+          "url": "https://qurani.platform-thabat.workers.dev/play?file_id=CQACAgQAAyEFAATmuU3iAAIIqGrXf2FbkR4d_XMNfMtyTXhLMPXiAAJ_IwACAc-5Ugys_EgxGK2LPQQ",
+          "is_live": false
+        }
+      ]
     }
   ]
 }
